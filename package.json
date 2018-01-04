@@ -1,0 +1,19 @@
+{
+  "name": "ebuffer",
+  "version": "1.0.0",
+  "description": "buffer for E",
+  "main": "nodeBuffer.e",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "keywords": [
+    "e",
+    "buffer",
+    "eBuffer"
+  ],
+  "author": "Nathan",
+  "license": "MIT"，
+  "dependencies":[
+	"快速字节集.ec"
+  ]
+}
